@@ -1,0 +1,14 @@
+public class AddNumbers {
+    public static void main(String[] args) {
+        // Declare and initialize two variables to hold the numbers
+        int num1 = 5;
+        int num2 = 10;
+
+        // Add the numbers and store the result in a variable
+        int sum = num1 + num2;
+
+        // Print the result
+        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+    }
+}
+
